@@ -1,4 +1,7 @@
 #
+# sudo apt install python-pip or python3-pip
+# sudo pip install matplotlib
+# sudo pip install numpy
 #
 #
 
